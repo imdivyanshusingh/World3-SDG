@@ -13,12 +13,15 @@
 
 ## IPFS/Web3Storage Implementaion 
  
-World 3 platform is based on ethereum, IPFS and Web3Storage which stores files and data which user generates by setting up project and profile information. These    details later used in managing social issues. Project created by user will be further aimed for getting sponsorship from people all over the world.
+World 3 platform is based on ethereum, IPFS and Web3Storage which stores files and data which user generates by setting up project and profile information. These    details later used in managing social issues. Project created by user will be further aimed for getting sponsorship from people all over the world, which eventually helping SDG's to get achieved in upcoming years.
 
 - **Create Project-** https://github.com/imdivyanshusingh/World3-SDG/blob/main/src/components/CreateProject.js
 - **Edit Profile-** https://github.com/imdivyanshusingh/World3-SDG/blob/main/src/components/EditProfile.js
  
- 
+## Sustainable Development Goals- SDG's
+
+The Sustainable Development Goals or Global Goals are a collection of 17 interlinked global goals designed to be a "shared blueprint for peace and prosperity for people and the planet, now and into the future". The SDGs were set up in 2015 by the United Nations General Assembly and are intended to be achieved by 2030.
+
 ##  How it works
 
 World 3 is a web 3.0 platform that will bring together explorers to solve social and environmental problems of the SDG goals. Our mission is to use blockchain to achieve real world impact, especially in areas where there is no other solution. We believe that the technology exists today, and more importantly, we have built World3 to be easily adopted by anyone that needs a tool for managing social issues.
