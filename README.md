@@ -3,7 +3,7 @@
     <img src="./src/assets/img/logo2.svg" width="40px" alt="Project Initiator"/>
   </a>
 </p>
-<h1 align="center"> World3-SDG for Gitcoin </h1>
+<h1 align="center"> World3-SDG for Gitcoin Storage Wizard</h1>
 
 <p align="center" title="Project Initiator"><img src="./src/assets/img/world3.jpg" alt="Project Initiator"/></p>
 
