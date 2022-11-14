@@ -14,8 +14,9 @@
 ## IPFS/Web3Storage Implementaion 
  
 World 3 platform is based on ethereum, IPFS and Web3Storage which stores files and data which user generates by setting up project and profile information. These    details later used in managing social issues. Project created by user will be further aimed for getting sponsorship from people all over the world.
-Create Project-
-Edit Profile-
+
+- **Create Project-** https://github.com/imdivyanshusingh/World3-SDG/blob/main/src/components/CreateProject.js
+- **Edit Profile-** https://github.com/imdivyanshusingh/World3-SDG/blob/main/src/components/EditProfile.js
  
  
 ##  How it works
