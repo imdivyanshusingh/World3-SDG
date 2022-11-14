@@ -11,6 +11,13 @@
 
  I used to wonder by virtue of what long the dust has experienced, by what method beings submerged remain, reason mammals obsolesce, and what causes rain to fall. When I begun grades 8-12, I fulfilled that most of the answers I was expect were right beyond me. Our conduct have a meaningful affect our experience. How can we address these concerns? Individuals must sanctify themselves as trailblazers to assist in the administration of these tangible and social issues.
 
+## IPFS/Web3Storage Implementaion 
+ 
+World 3 platform is based on ethereum, IPFS and Web3Storage which stores files and data which user generates by setting up project and profile information. These    details later used in managing social issues. Project created by user will be further aimed for getting sponsorship from people all over the world.
+Create Project-
+Edit Profile-
+ 
+ 
 ##  How it works
 
 World 3 is a web 3.0 platform that will bring together explorers to solve social and environmental problems of the SDG goals. Our mission is to use blockchain to achieve real world impact, especially in areas where there is no other solution. We believe that the technology exists today, and more importantly, we have built World3 to be easily adopted by anyone that needs a tool for managing social issues.
